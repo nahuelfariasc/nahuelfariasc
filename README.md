@@ -10,7 +10,6 @@ I'm a web developer with over 3 years of experience building fully customized we
 
 - 🔭 I’m currently working for a company called Bracket, besides that I am also working on a personal <a href="https://www.linkedin.com/feed/update/urn:li:activity:7298759462318727170/" target="blank">project</a> with a friend
 - 🌱 I’m currently learning React js
-- 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
 ## My skills
