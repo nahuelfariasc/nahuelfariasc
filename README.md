@@ -10,13 +10,12 @@ I'm a Full Stack Developer with 4+ years of experience building production-ready
 I have a strong frontend background (HTML, SCSS, JavaScript) and solid backend experience working with APIs, business logic, and CMS-based solutions using PHP and WordPress.
 Currently, I'm expanding my backend skill set toward modern architectures and technologies such as .NET and C#, focusing on building scalable REST APIs and full-stack applications.
 
-## What I'm focusing on now
+## Professional Focus
 - Backend development and API design
 - Clean architecture and scalable applications
 - Full Stack development with .NET and modern frontend frameworks
 
-- 🌱 Currently focused on strengthening my backend skills and modern full-stack development (.NET, C#, REST APIs)
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Ask me about anything, I’m happy to help!
 
 ## My skills
 Languages
